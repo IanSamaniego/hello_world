@@ -1,7 +1,7 @@
 # hello_world
 This is currently my first README file, and while I would love to showcase my work right now, I still have a long way to go to have any semblance of a portfolio. 
 If anyone finds this file, just know I am learning JS and working on really some strong foundations in HTML and CSS and I would love to hear any kind of advise. 
-I will link my Twitter/X profile for any kind of communication: @IanSamanieg0 
+I will link my [Twitter/X](https://twitter.com/home) profile for any kind of communication: @IanSamanieg0 
 Thanks for reading, and happy coding!
 
 
